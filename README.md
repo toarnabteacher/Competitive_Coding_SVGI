@@ -2,7 +2,7 @@
 
 <hr>
 
-* **GitHub Link:** https://github.com/toarnabteacher/Competitive_Coding_SVGI or https://tinyurl.com/bdfucb8k
+* **GitHub Link:** https://github.com/toarnabteacher/Competitive_Coding_SVGI or https://tinyurl.com/4bu2nrku
 * **Online Session MS-Teams Link for all sessions:** https://tinyurl.com/2s3yxjnr
 * **Notepad.pw Link:** https://notepad.pw/p5Achs3EAtvkDLsbUxOg
 <hr>
